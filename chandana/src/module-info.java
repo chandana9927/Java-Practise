@@ -6,5 +6,4 @@
  *
  */
 module chandana {
-	requires java.desktop;
 }
